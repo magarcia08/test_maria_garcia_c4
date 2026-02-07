@@ -5,6 +5,12 @@
 
 ## A continuación encontrarás estructura, definición de entidades y atributos, relaciones, documentación del diseño, validaciones y restricciones lógicas, normalización de la base de datos y por último organización y entrega.
 
+En los archivos encuentras:
+
+libreriasofia_test.sql: la creacion de cada una de las tablas teniendo cuenta la descripciones
+
+modelorelacional: es diagrama relacional en cual cuenta
+
 ## Estructura del Diagrama
 
 - Se diseñaron las siguientes tablas junto con sus atributos.
