@@ -150,14 +150,13 @@ La verificaion de algunos atributos como el nombre_proveedor o correo del client
 
 
 Por ultimo un resumen de las tablas:
-
-Cliente: almacena la información de los clientes registrados
-• autor: contiene los datos de los autores de los libros
-• Libro: gestiona los libros disponibles, precios y stock
-• pedido: registra las compras de los clientes
-• Transacción: almacena la información de pago
-• DetallePedido: vincula libros con pedidos
-• LibroAutor: representa la relación N:M entre libros y autores
+- Cliente: almacena la información de los clientes registrados
+- autor: contiene los datos de los autores de los libros
+- Libro: gestiona los libros disponibles, precios y stock
+- pedido: registra las compras de los clientes
+- Transacción: almacena la información de pago
+- DetallePedido: vincula libros con pedidos
+- LibroAutor: representa la relación N:M entre libros y autores
 
 Gracias al proceso de normalización, la base de datos de Librería El Mundo de Sofía quedó optimizada, sin redundancias y lista para crecer.
 
